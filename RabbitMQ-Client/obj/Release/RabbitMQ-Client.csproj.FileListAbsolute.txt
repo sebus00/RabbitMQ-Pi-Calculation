@@ -1,0 +1,16 @@
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\RabbitMQ-Client.exe.config
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\RabbitMQ-Client.exe
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\RabbitMQ-Client.pdb
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\Newtonsoft.Json.dll
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\RabbitMQ.Client.dll
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\RabbitMQService.dll
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\RabbitMQService.pdb
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\Newtonsoft.Json.xml
+D:\Projekty\RabbitMQ\RabbitMQ-Client\bin\Release\RabbitMQ.Client.xml
+D:\Projekty\RabbitMQ\RabbitMQ-Client\obj\Release\RabbitMQ-Client.csprojAssemblyReference.cache
+D:\Projekty\RabbitMQ\RabbitMQ-Client\obj\Release\RabbitMQ-Client.csproj.CoreCompileInputs.cache
+D:\Projekty\RabbitMQ\RabbitMQ-Client\obj\Release\RabbitMQ-Client.csproj.CopyComplete
+D:\Projekty\RabbitMQ\RabbitMQ-Client\obj\Release\RabbitMQ-Client.exe
+D:\Projekty\RabbitMQ\RabbitMQ-Client\obj\Release\RabbitMQ-Client.pdb

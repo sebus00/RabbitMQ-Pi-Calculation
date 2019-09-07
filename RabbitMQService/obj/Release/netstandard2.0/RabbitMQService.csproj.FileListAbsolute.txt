@@ -1,0 +1,9 @@
+D:\Projekty\RabbitMQ\RabbitMQService\bin\Release\netstandard2.0\RabbitMQService.deps.json
+D:\Projekty\RabbitMQ\RabbitMQService\bin\Release\netstandard2.0\RabbitMQService.dll
+D:\Projekty\RabbitMQ\RabbitMQService\bin\Release\netstandard2.0\RabbitMQService.pdb
+D:\Projekty\RabbitMQ\RabbitMQService\obj\Release\netstandard2.0\RabbitMQService.csprojAssemblyReference.cache
+D:\Projekty\RabbitMQ\RabbitMQService\obj\Release\netstandard2.0\RabbitMQService.csproj.CoreCompileInputs.cache
+D:\Projekty\RabbitMQ\RabbitMQService\obj\Release\netstandard2.0\RabbitMQService.AssemblyInfoInputs.cache
+D:\Projekty\RabbitMQ\RabbitMQService\obj\Release\netstandard2.0\RabbitMQService.AssemblyInfo.cs
+D:\Projekty\RabbitMQ\RabbitMQService\obj\Release\netstandard2.0\RabbitMQService.dll
+D:\Projekty\RabbitMQ\RabbitMQService\obj\Release\netstandard2.0\RabbitMQService.pdb
